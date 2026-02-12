@@ -1,11 +1,9 @@
 ---
 name: thinking-audit
-description: Assess whether genuine thinking is occurring or whether cliches, rules,
-  and stock phrases have replaced reflection. Based on Hannah Arendt's analysis of
-  thinking as the internal dialogue of the sel...
+description: Assess whether genuine thinking is occurring or whether cliches, rules, and stock phrases have replaced reflection. Based on Hannah Arendt's analysis of thinking as the internal dialogue of the sel...
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   author: sethmblack
 keywords:
 - thinking-audit
